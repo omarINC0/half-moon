@@ -6,3 +6,4 @@
 
 This work is licensed under the CC-BY-4.0 license. To view a copy of this license, view the [LICENSE.txt](LICENSE.txt), or visit [the license's webpage](http://creativecommons.org/licenses/by/4.0/).
 
+[Project details](https://omarinc0.github.io/half-moon/)
